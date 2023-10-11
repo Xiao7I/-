@@ -12,6 +12,7 @@ int main()
 	cin >> a >> b;
 	int sum = sum_function(a, b);
 	cout << sum << endl;
+	cout << "hello" << endl;
 	system("pause");
 	return 0;
 }
